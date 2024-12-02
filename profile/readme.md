@@ -1,5 +1,7 @@
 # Welcome
-This engine is inspired by Codename and Psych!
+This engine is inspired by Codename, Psych and a little bit of V-Slice!
+
+Like most fnf related engines, I use HaxeFlixel. Did I mention I coded most of this from scratch?
 
 There are things about both engines I love a lot, but there are some things I think feel off or wish they'd been done differently. So I decided to make my own engine!
 # Plans
